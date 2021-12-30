@@ -1,6 +1,6 @@
 <?php
 
-namespace SOS\LaravelPackageTemplate\Classes;
+namespace SOS\PhpPackageTemplate\Classes;
 
 class AbstractToBuild
 {

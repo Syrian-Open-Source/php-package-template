@@ -26,8 +26,8 @@
     },
     "autoload" : {
         "psr-4": {
-            "SOS\\LaravelPackageTemplate\\" : "src",
-            "SOS\\LaravelPackageTemplate\\Tests\\": "src/tests"
+            "SOS\\PhpPackageTemplate\\" : "src",
+            "SOS\\PhpPackageTemplate\\Tests\\": "src/tests"
         }
     },
     "scripts": {

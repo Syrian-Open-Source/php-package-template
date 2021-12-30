@@ -1,10 +1,11 @@
 <?php
 
-namespace SOS\LaravelPackageTemplate\Tests\Feature;
+namespace SOS\PhpPackageTemplate\Tests\Feature;
 
-use SOS\LaravelPackageTemplate\Tests\BaseTest;
 
-class ExampleTest extends BaseTest
+use PHPUnit\Framework\TestCase;
+
+class ExampleTest extends TestCase
 {
     /**
      * descriptions
